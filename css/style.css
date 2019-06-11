@@ -9,3 +9,7 @@
     width: 100%;
     padding-top: 100px;
 }
+
+.img-fluid{
+    max-width: auto;
+}
